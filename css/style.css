@@ -1,0 +1,110 @@
+
+#title {
+    background-color: #b4f466;
+}
+#title h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;}
+.container-fluid {
+padding: 3% 15%;
+}
+nav {
+    margin-bottom: 100px;
+}
+.logo {
+    font-size:3rem;
+    
+}
+.head h1 {
+    color: rgb(255, 235, 205);
+    margin-bottom: 50px;
+}
+.head button 
+{
+    width: 200px;
+    
+}
+.head >button {
+    margin-right: 10px;
+}
+
+#features {
+    text-align: center;
+    padding: 7% 15%;
+}
+.features-item {
+padding: 5%;
+}
+#features span  {
+    color: #b4f466;
+    transition: .5s;
+}
+#features span:hover  {
+    color: #8bcf33;
+}
+#features h3 {
+    font-family: "Montseaart-Black";
+    font-size: 1.5rem;
+    margin-top: 3%;
+} 
+#features p {
+    color: #8f8f8f;
+}
+/* testimonials */
+#testimonials {
+    text-align: center;
+    background-color: #b4f466;
+   
+}
+#testimonials h2 {
+     font-family: "Montseaart";
+    font-size: 2rem;
+    line-height: 1.5;
+
+}
+.testimonials-image{
+    border-radius: 100%;
+    margin: 20px;
+    width: 10%;
+    height: 100px;
+
+}
+.carousel-item{
+    padding: 7% 15% 5%;
+}
+/* pricing section */
+#pricing {
+    padding:100px ;
+    text-align: center;
+}
+.pricing-item {
+    padding: 3% 2%;
+}
+.pricing-item h2 {
+    margin-bottom: 10px;
+    font-family: "Montseaart";
+    font-weight: bolder;
+}
+/* cta section */
+#cta {
+    background-color: #b4f466;
+    text-align: center;
+    padding:7% 15%;
+}
+#cta h3 {
+    font-family: "Montseaart";
+ 
+}
+.cta-btn {
+    margin: 20px 10px;
+    width: 20%;
+}
+/* footer section */
+footer {
+    padding: 7% 15%;
+    text-align: center;
+}
+.social-icon {
+    margin: 20px 10px;
+}
