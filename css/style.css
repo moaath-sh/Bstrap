@@ -12,6 +12,12 @@ padding: 3% 15%;
 nav {
     margin-bottom: 100px;
 }
+a {
+    color: #8f8f8f;
+}
+a:hover {
+    color: #b4f466;
+}
 .logo {
     font-size:3rem;
     
@@ -55,7 +61,7 @@ padding: 5%;
 #testimonials {
     text-align: center;
     background-color: #b4f466;
-   
+    
 }
 #testimonials h2 {
      font-family: "Montseaart";
@@ -70,6 +76,7 @@ padding: 5%;
     height: 100px;
 
 }
+
 .carousel-item{
     padding: 7% 15% 5%;
 }
@@ -77,10 +84,16 @@ padding: 5%;
 #pricing {
     padding:100px ;
     text-align: center;
+    transition: .5s;
 }
 .pricing-item {
     padding: 3% 2%;
 }
+.jscardChang {
+    padding: 3% 2%;
+    transform: scale(1.1);
+}
+
 .pricing-item h2 {
     margin-bottom: 10px;
     font-family: "Montseaart";
